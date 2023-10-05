@@ -12,9 +12,9 @@ enableEmoji = true
 noClasses = false
 
 [params]
-author = "Gzcoder"
+author = "ZAKERR"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Gzcoder's personal website"
+description = "ZAKERR's personal website"
 keywords = "blog,developer,personal"
 info = ["", "C++"]
 avatarURL = "images/avatar.jpg"
@@ -179,10 +179,10 @@ url = "contact/"
 
 [languages.pt-br]
 languageName = ":cn:"
-title = "GZ 宝藏"
+title = ""
 
 [languages.pt-br.params]
-author = "Gzcoder"
+author = "ZAKERR"
 info = ""
 description = "C++"
 keywords = "blog,desenvolvedor,pessoal"
